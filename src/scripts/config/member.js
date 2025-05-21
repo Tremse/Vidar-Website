@@ -3,7 +3,7 @@ export default [
     id: "Tremse",
     intro: "24级 / 车车人🚗",
     avatar: require("../../image/avatar/Tremse.png"),
-    url: "www.Tremse.cn"
+    url: "https://www.Tremse.cn"
   },
   {
     id: "Godz1lla",
